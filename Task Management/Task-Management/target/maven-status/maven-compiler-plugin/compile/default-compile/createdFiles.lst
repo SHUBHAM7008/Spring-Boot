@@ -1,0 +1,8 @@
+com\example\Task\Management\model\User.class
+com\example\Task\Management\repository\UserRepository.class
+com\example\Task\Management\model\Role.class
+com\example\Task\Management\service\AuthService.class
+com\example\Task\Management\TaskManagementApplication.class
+com\example\Task\Management\model\JwtUtils.class
+com\example\Task\Management\config\SecurityConfig.class
+com\example\Task\Management\controller\AuthController.class
